@@ -1,0 +1,32 @@
+ANALYSING LOG FILES
+===================
+
+List of log files updated
+/Users/sebastiangomez/repositorios_git/linux/loops/for/applications/application.log
+
+
+================================
+=========application.log=========
+================================
+
+Searching ERROR logs in application.log file
+[2025-06-01 08:17:48] [ERROR] Payment gateway timeout after 30s for transaction TX78901234
+[2025-06-01 08:25:48] [ERROR] Insufficient disk space for file upload
+[2025-06-01 08:41:33] [ERROR] Invalid product code: PRD-404-NOTFOUND
+[2025-06-01 08:55:19] [ERROR] Failed to update product #5678 - Database constraint violation
+[2025-06-01 09:12:17] [ERROR] Analytics processing failed - Missing data for region EU-WEST
+[2025-06-01 09:30:45] [ERROR] Health check failed for service: message-queue
+📊 Total  events (ERROR) found: 6
+------------------------------------
+
+Searching FATAL logs in application.log file
+[2025-06-01 08:47:22] [FATAL] Out of memory error in recommendation engine
+[2025-06-01 09:25:33] [FATAL] Kernel panic on worker node worker-03
+📊 Total  events (FATAL) found: 2
+------------------------------------
+
+Searching CRITICAL logs in application.log file
+[2025-06-01 08:32:13] [CRITICAL] Database connection lost during backup
+[2025-06-01 09:17:22] [CRITICAL] Security alert: Multiple failed login attempts for admin account
+📊 Total  events (CRITICAL) found: 2
+------------------------------------
