@@ -1,0 +1,8 @@
+=========================
+REPORTE FINAL Sat Jun 13 08:22:33 -05 2026
+=========================
+CONSUMO NORMAL [logs_ar.txt]: Los usuarios tuvieron un consumo normal en USR301 con un tiempo de 90 min.
+📉 BAJO CONSUMO [logs_ar.txt]: Los usuarios tuvieron un bajo consumo en USR302 con un tiempo de 8 min.
+🚀 ALTO CONSUMO [logs_co.txt]: Los usuarios tuvieron alto consumo en USR101 con un tiempo de 120 min.
+🚀 ALTO CONSUMO [logs_mx.txt]: Los usuarios tuvieron alto consumo en USR202 con un tiempo de 240 min.
+CONSUMO NORMAL [logs_mx.txt]: Los usuarios tuvieron un consumo normal en USR203 con un tiempo de 45 min.

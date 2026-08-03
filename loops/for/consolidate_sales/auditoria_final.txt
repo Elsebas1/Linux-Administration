@@ -1,0 +1,15 @@
+---------------------------------------------
+
+REPORTE DE TRANSACCIONES EXITOSAS Y RECHAZADAS
+
+---------------------------------------------
+Búsqueda de la palabra COMPLETED
+  37 Audífonos
+  27 Celular
+  13 Teclado
+🏆 PRODUCTO ESTRELLA: Se vendieron '37' unidades de 'Audífonos'.
+🏆 PRODUCTO ESTRELLA: Se vendieron '27' unidades de 'Celular'.
+VENTA REGULAR: Se vendieron '13' unidades de 'Teclado'.
+Búsqueda de la palabra REJECTED
+  23 Computador
+Las transacciones del 'Computador' están rechazadas y por ende no se incluyen dentro de la cantidades vendidas.

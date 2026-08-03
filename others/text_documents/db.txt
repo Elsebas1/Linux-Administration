@@ -1,0 +1,41 @@
+2024-01-19 12:05:15 INFO PostgreSQL database server v14.5 starting
+2024-01-19 12:05:16 INFO Database cluster initialized - Data directory: /var/lib/postgresql/data
+2024-01-19 12:05:17 INFO Listening for connections - Port: 5432
+2024-01-19 12:05:18 INFO Database system is ready to accept connections
+2024-01-19 12:05:19 INFO Recovering from last checkpoint - WAL location: 0/1A2B3C4D
+2024-01-19 12:05:20 INFO Recovery completed - Database restored to consistent state
+2024-01-19 12:07:30 INFO Connection received - User: app_user, Database: production, IP: 10.0.2.15
+2024-01-19 12:07:31 INFO Authentication successful - User: app_user
+2024-01-19 12:08:45 INFO Query executed - Duration: 145ms, Rows: 1234
+2024-01-19 12:09:22 WARN Slow query detected - Duration: 5432ms, Query: SELECT * FROM orders WHERE status = 'pending'
+2024-01-19 12:09:23 WARN Missing index on table: orders, Column: status
+2024-01-19 12:10:15 ERROR Deadlock detected - Process 4567 and 4568 waiting for each other
+2024-01-19 12:10:16 ERROR Transaction rolled back - TxID: 987654, Reason: deadlock_detected
+2024-01-19 12:11:30 INFO Vacuum process started - Table: customer_data
+2024-01-19 12:11:45 INFO Vacuum completed - Dead tuples removed: 45678, Duration: 15s
+2024-01-19 12:12:20 ERROR Connection limit reached - Max connections: 100, Current: 100
+2024-01-19 12:12:21 WARN Rejecting new connection from 10.0.3.42 - Connection pool exhausted
+2024-01-19 12:13:35 INFO Replication lag detected - Primary ahead by 234 transactions
+2024-01-19 12:13:36 WARN Standby database falling behind - Lag: 12 seconds
+2024-01-19 12:14:50 ERROR Disk space critical - Data directory: 95% full, Available: 2.5GB
+2024-01-19 12:14:51 ERROR Checkpoint failed - Unable to write WAL segments, No space left on device
+2024-01-19 12:15:10 INFO Emergency cleanup initiated - Removing old WAL files
+2024-01-19 12:16:25 ERROR Constraint violation - Table: users, Column: email, Error: duplicate key value
+2024-01-19 12:16:26 ERROR INSERT failed - Duplicate entry 'user@example.com' for unique constraint
+2024-01-19 12:17:40 INFO Connection terminated - User: app_user, Duration: 10m15s
+2024-01-19 12:18:15 ERROR Authentication failed - User: admin, IP: 203.45.67.89, Reason: invalid password
+2024-01-19 12:18:16 WARN Security alert - Multiple failed login attempts from IP: 203.45.67.89
+2024-01-19 12:19:30 INFO Backup initiated - Method: pg_basebackup, Destination: /backups/daily
+2024-01-19 12:19:45 ERROR Backup failed - Network timeout to backup server after 15s
+2024-01-19 12:20:22 INFO Auto-vacuum launched - Table: order_items, Threshold exceeded
+2024-01-19 12:21:50 ERROR Lock timeout exceeded - Query waiting for lock on table: inventory, Timeout: 30s
+2024-01-19 12:21:51 ERROR Statement cancelled - Lock could not be acquired within timeout period
+2024-01-19 12:21:50 ERROR Lock timeout exceeded - Query waiting for lock on table: inventory, Timeout: 30s
+2024-01-19 12:22:35 WARN Table bloat detected - Table: sessions, Size: 4.5GB, Estimated bloat: 60%
+2024-01-19 12:23:10 INFO Streaming replication connected - Standby: db-replica-02, Lag: 0 bytes
+2024-01-19 12:21:50 ERROR Lock timeout exceeded - Query waiting for lock on table: inventory, Timeout: 30s
+2024-01-19 12:24:45 ERROR Foreign key constraint violated - Referenced row does not exist in table: customers
+2024-01-19 12:25:20 INFO Statistics updated - Table: products, Analyze duration: 2.3s
+2024-01-19 12:21:50 ERROR Lock timeout exceeded - Query waiting for lock on table: inventory, Timeout: 30s
+2024-01-19 12:26:15 ERROR Out of memory - Failed to allocate 256MB for query execution
+2024-01-19 12:26:16 ERROR Query terminated - Insufficient shared memory available

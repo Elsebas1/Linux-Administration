@@ -1,0 +1,5 @@
+192.168.1.5 - [200] - GET /index.html
+10.0.0.45 - [404] - GET /admin/login.php
+192.168.1.99 - [200] - POST /api/v1/data
+185.220.101.5 - [500] - GET /checkout
+172.16.0.5 - [404] - GET /assets/favicon.ico

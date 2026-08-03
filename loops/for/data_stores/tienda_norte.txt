@@ -1,0 +1,3 @@
+Teclado:45
+Monitor:12
+Raton:85

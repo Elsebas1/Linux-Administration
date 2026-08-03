@@ -1,0 +1,37 @@
+2024-01-18 11:15:30 INFO Redis server v7.2.3 starting
+2024-01-18 11:15:31 INFO Running in standalone mode
+2024-01-18 11:15:32 INFO Server initialized - Port: 6379, PID: 1234
+2024-01-18 11:15:33 INFO Ready to accept connections
+2024-01-18 11:15:34 INFO Loading RDB snapshot from disk - File: dump.rdb
+2024-01-18 11:15:35 INFO Database loaded from disk - Keys: 15234, Duration: 1.2s
+2024-01-18 11:17:45 INFO Client connected - IP: 10.0.1.45:52341
+2024-01-18 11:17:46 INFO Command executed - SET user:profile:12345, Duration: 0.8ms
+2024-01-18 11:18:22 INFO Cache hit - Key: session:user_98765, TTL: 3420s
+2024-01-18 11:18:55 WARN Memory usage high - Used: 3.2GB, Max: 4GB (80% threshold exceeded)
+2024-01-18 11:19:10 INFO Eviction policy triggered - Policy: allkeys-lru, Keys evicted: 245
+2024-01-18 11:19:42 INFO Replication sync started - Master: redis-master.prod:6379
+2024-01-18 11:19:43 ERROR Connection to master failed - Timeout after 5000ms
+2024-01-18 11:19:44 WARN Replica disconnected from master - Retrying in 10s
+2024-01-18 11:19:54 INFO Connection to master re-established successfully
+2024-01-18 11:20:15 INFO Full resync requested by master - RDB transfer started
+2024-01-18 11:20:48 INFO Background save started - Fork: success, PID: 1567
+2024-01-18 11:21:05 INFO RDB snapshot saved - File: dump.rdb, Size: 512MB, Duration: 17s
+2024-01-18 11:21:30 ERROR AOF write failed - Path: /data/appendonly.aof, Error: disk full
+2024-01-18 11:21:31 ERROR Data persistence disabled - No space left on device
+2024-01-18 11:21:32 WARN Operating in memory-only mode - Data loss risk!
+2024-01-18 11:22:10 INFO Slow query detected - Command: KEYS *, Duration: 1234ms
+2024-01-18 11:22:11 WARN Performance degradation - Blocking operation on main thread
+2024-01-18 11:23:45 INFO Client disconnected - IP: 10.0.1.45:52341, Duration: 6m
+2024-01-18 11:24:20 ERROR Maximum clients reached - Current: 10000, Max: 10000
+2024-01-18 11:24:21 WARN Rejecting new connections - Connection limit exceeded
+2024-01-18 11:25:15 INFO Cluster node status check - Node: redis-node-02, Status: connected
+2024-01-18 11:26:30 ERROR Cluster failover initiated - Master node unreachable: redis-master-01
+2024-01-18 11:26:31 INFO Promoting replica to master - Node: redis-replica-02
+2024-01-18 11:26:32 INFO Cluster topology updated - New master elected
+2024-01-18 11:27:18 INFO Command executed - MGET 1000 keys, Duration: 45ms
+2024-01-18 11:28:05 ERROR Authentication failed - Invalid password from IP: 203.45.89.12
+2024-01-18 11:28:06 WARN Potential security threat - Multiple failed auth attempts detected
+2024-01-18 11:29:40 INFO Pub/Sub message published - Channel: notifications, Subscribers: 1247
+2024-01-18 11:30:22 INFO Expired keys cleanup - Keys removed: 3421, Duration: 89ms
+2024-01-18 11:31:15 ERROR Replication lag critical - Master offset: 1234567, Replica offset: 1200000, Lag: 34567 bytes
+2024-01-18 11:32:50 INFO Configuration reloaded - Changes applied without restart

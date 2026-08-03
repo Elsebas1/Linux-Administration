@@ -1,0 +1,5 @@
+srv-web01,8,ONLINE
+srv-db01,32,ONLINE
+srv-api02,4,OFFLINE
+srv-cache01,16,ONLINE
+srv-backup01,6,OFFLINE

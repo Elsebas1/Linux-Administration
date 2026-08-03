@@ -1,0 +1,48 @@
+\nAnálisis de archivos
+
+ Archivo a trabajar
+==============================
+          system.log            
+===============================
+
+Busqueda  FATAL en el archivo system.log
+
+[2026-06-09 01:35:34] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 02:35:50] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 08:35:30] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 09:49:45] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 09:57:39] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 12:00:22] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 21:16:51] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 23:25:09] FATAL - Kernel panic: Attempted to kill init! core_dumped
+
+📊 Del archivo system.log hay en total 8 FATAL
+
+Busqueda  CRITICAL en el archivo system.log
+
+[2026-06-09 11:25:58] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 18:40:11] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 18:54:38] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 21:43:05] CRITICAL - Disk usage at 98% on /dev/sda1
+
+📊 Del archivo system.log hay en total 4 CRITICAL
+
+ Archivo a trabajar
+==============================
+          application.log            
+===============================
+
+Busqueda  FATAL en el archivo application.log
+
+
+📊 Del archivo application.log hay en total 0 FATAL
+
+Busqueda  CRITICAL en el archivo application.log
+
+[2026-06-09 01:18:12] CRITICAL - API Gateway authentication timeout
+[2026-06-09 03:27:25] CRITICAL - API Gateway authentication timeout
+[2026-06-09 08:47:46] CRITICAL - API Gateway authentication timeout
+[2026-06-09 10:25:18] CRITICAL - API Gateway authentication timeout
+[2026-06-09 13:35:37] CRITICAL - API Gateway authentication timeout
+
+📊 Del archivo application.log hay en total 5 CRITICAL

@@ -1,0 +1,100 @@
+1. Linux fue creado por Linus Torvalds en 1991.
+2. El primer kernel de Linux tenía solo 10,239 líneas de código.
+3. Linux fue inspirado en el sistema operativo MINIX.
+4. Tux, el pingüino, es la mascota oficial de Linux.
+5. Linux no es un sistema operativo completo, es solo el kernel.
+6. Android está basado en el kernel de Linux.
+7. El nombre 'Linux' es una combinación de 'Linus' y 'Unix'.
+8. Linux es usado por la mayoría de los servidores web.
+9. El superordenador más rápido del mundo usa Linux.
+10. El 100% de las 500 supercomputadoras más rápidas del mundo usan Linux.
+11. Linux es software libre y de código abierto.
+12. Existen muchas distribuciones de Linux, como Ubuntu, Fedora y Debian.
+13. Linux es más seguro que muchos otros sistemas operativos.
+14. El kernel de Linux está escrito en C.
+15. Puedes modificar y redistribuir Linux libremente.
+16. Muchos routers usan Linux como sistema operativo.
+17. La mayoría de las plataformas de trading de bolsa usan Linux.
+18. Linux tiene una gran comunidad de desarrolladores voluntarios.
+19. Linux fue originalmente desarrollado como un hobby.
+20. Puedes ejecutar Linux desde una memoria USB sin instalarlo.
+21. Linux tiene su propio sistema de permisos de archivos.
+22. Puedes compilar el kernel tú mismo para personalizarlo.
+23. Linux usa el sistema de archivos ext4 por defecto en muchas distros.
+24. Los archivos en Linux distinguen entre mayúsculas y minúsculas.
+25. Linux puede funcionar en dispositivos de pocos recursos.
+26. Muchos dispositivos IoT usan Linux.
+27. Puedes controlar completamente tu sistema Linux con la terminal.
+28. Los sistemas operativos basados en Linux son muy usados en entornos científicos.
+29. La NASA utiliza Linux en muchos de sus sistemas.
+30. El sistema de archivos raíz en Linux comienza con '/'.
+31. Linux tiene una estructura jerárquica de archivos.
+32. El comando 'ls' lista los archivos en un directorio.
+33. Puedes usar 'chmod' para cambiar permisos de archivos.
+34. El comando 'grep' busca texto dentro de archivos.
+35. Linux tiene múltiples shells, como bash, zsh, y fish.
+36. Bash significa 'Bourne Again SHell'.
+37. Puedes automatizar tareas con scripts bash.
+38. Linux se usa como sistema base para muchas distribuciones de hacking ético.
+39. Kali Linux es una distro especializada en pruebas de penetración.
+40. Linux puede correr en arquitecturas ARM, x86, y más.
+41. Steam Deck usa una distro de Linux como su sistema base.
+42. Muchas empresas grandes contribuyen al desarrollo del kernel de Linux.
+43. Red Hat es una de las mayores empresas comerciales relacionadas con Linux.
+44. Linux se usa en la mayoría de los servidores de correo electrónico.
+45. Muchos smartphones Samsung usan una versión de Linux.
+46. El código fuente del kernel de Linux está disponible en kernel.org.
+47. Existen distribuciones ligeras como Puppy Linux y Tiny Core Linux.
+48. Linux puede ser configurado como un servidor web con Apache o Nginx.
+49. Puedes montar un servidor de archivos usando Samba en Linux.
+50. GNOME y KDE son entornos de escritorio populares en Linux.
+51. Linux se actualiza constantemente, con nuevas versiones del kernel.
+52. Muchos programadores prefieren Linux para el desarrollo de software.
+53. Git fue creado por Linus Torvalds, el creador de Linux.
+54. Muchas universidades enseñan Linux en sus cursos de informática.
+55. Linux tiene una gran colección de juegos open source.
+56. Wine permite ejecutar aplicaciones de Windows en Linux.
+57. Proton, de Valve, mejora la compatibilidad de juegos de Windows en Linux.
+58. Puedes usar Docker y contenedores en Linux de forma nativa.
+59. Linux puede usarse para clústeres de computación distribuida.
+60. Puedes acceder remotamente a sistemas Linux con SSH.
+61. Muchos servicios en la nube usan Linux como sistema operativo base.
+62. Linux puede ejecutarse en modo texto o con interfaz gráfica.
+63. Existen sistemas de paquetes como apt, yum, y pacman para instalar software.
+64. Linux puede correr en máquinas virtuales con KVM o VirtualBox.
+65. Systemd es un sistema de inicio moderno usado en muchas distros.
+66. Puedes personalizar completamente el entorno gráfico en Linux.
+67. Muchas herramientas de ciberseguridad solo funcionan en Linux.
+68. Linux es popular entre científicos de datos y usuarios de Python.
+69. Muchas criptomonedas y nodos blockchain corren sobre Linux.
+70. Linux es ideal para servidores debido a su estabilidad.
+71. Hay distros diseñadas para niños y educación, como Edubuntu.
+72. Puedes grabar CDs y DVDs desde la terminal en Linux.
+73. El kernel de Linux es modular y puede cargar drivers dinámicamente.
+74. Puedes montar sistemas de archivos de Windows en Linux.
+75. Puedes usar rsync para respaldos eficientes en Linux.
+76. Linux tiene gestores de ventanas como i3, Xmonad, y Openbox.
+77. Arch Linux es famosa por su filosofía de simplicidad y control total.
+78. Manjaro es una distro amigable basada en Arch.
+79. Linux Mint es una distro basada en Ubuntu, ideal para principiantes.
+80. Ubuntu es una de las distribuciones más populares del mundo.
+81. Fedora es patrocinada por Red Hat y es cutting-edge.
+82. Debian es conocida por su estabilidad.
+83. Slackware es una de las distros más antiguas que aún existen.
+84. Puedes usar cron para programar tareas automáticas en Linux.
+85. Linux puede detectar y montar discos automáticamente.
+86. Puedes configurar un firewall con iptables o firewalld.
+87. SELinux ofrece control de acceso mandatorio.
+88. Puedes usar 'top' o 'htop' para monitorear procesos.
+89. Linux puede ser usado en estaciones espaciales, como la ISS.
+90. La mayoría de las distros Linux son gratuitas.
+91. Puedes correr emuladores de consolas clásicas en Linux.
+92. Existen tiendas de software para Linux como Flathub o Snap Store.
+93. Puedes crear tus propios paquetes en Linux.
+94. Muchas distros ofrecen versiones LTS (Long Term Support).
+95. Puedes crear discos en vivo personalizados.
+96. Hay distribuciones pensadas para la privacidad como Tails y Qubes.
+97. Linux funciona muy bien en hardware antiguo.
+98. Puedes usar tmux para sesiones de terminal persistentes.
+99. Linux es un pilar fundamental del software libre.
+100. ¡Incluso puedes jugar Minecraft en Linux!

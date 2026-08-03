@@ -1,0 +1,3 @@
+teclado:8
+Audifonos:60
+Monitor:3

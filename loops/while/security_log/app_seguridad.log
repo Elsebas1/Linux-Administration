@@ -1,0 +1,5 @@
+[2026-06-08 08:12:01] INFO  - Conexión establecida desde 192.168.1.15
+[2026-06-08 08:14:22] WARN  - Intento de login fallido para usuario 'admin'
+[2026-06-08 08:15:03] ERROR - Inyección SQL detectada en formulario de contacto
+[2026-06-08 08:18:45] INFO  - Copia de seguridad completada con éxito
+[2026-06-08 08:21:10] ERROR - Intento de escalado de privilegios por IP 10.0.0.5

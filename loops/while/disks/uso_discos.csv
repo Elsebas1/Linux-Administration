@@ -1,0 +1,5 @@
+ID_DATABASE,PORCENTAJE_USO,CRITICO
+db_usuario,45%,NO
+db_ventas,92%,SI
+db_logs,88%,SI
+db_test,15%,NO

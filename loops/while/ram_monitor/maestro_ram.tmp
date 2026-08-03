@@ -1,0 +1,9 @@
+app_web,512,OK
+app_db,2048,ALERT
+
+
+app_cache,1024,OK
+app_api,4096,CRITICAL
+app_auth,256,OK
+app_worker,3072,ALERT
+app_proxy,128,OK

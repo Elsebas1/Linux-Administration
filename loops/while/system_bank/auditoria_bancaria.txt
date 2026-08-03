@@ -1,0 +1,10 @@
+=== INICIO DE AUDITORÍA ===
+=== Fecha: Thu Jun 11 17:00:19 -05 2026
+🚨ALERTA ALTO VALOR: El cliente C004 retiró 3500 USD.
+🟢 OK: Transacción normal del cliente C005 DEPOSIT por 2500 USD.
+🟢 OK: Transacción normal del cliente C001 DEPOSIT por 500 USD.
+🚨ALERTA ALTO VALOR: El cliente C002 retiró 1200 USD.
+🟢 OK: Transacción normal del cliente C003 DEPOSIT por 80 USD.
+🟢 OK: Transacción normal del cliente C006 WITHDRAW por 450 USD.
+⚠️ CONTROL: Depósito bajo del cliente C007 por 15 USD.
+🟢 OK: Transacción normal del cliente C008 WITHDRAW por 90 USD.

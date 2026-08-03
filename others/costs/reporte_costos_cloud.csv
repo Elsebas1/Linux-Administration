@@ -1,0 +1,15 @@
+Fecha,ID_Recurso,Servicio,Region,Costo_USD,Estado,Equipo
+2026-06-01,vm-001,EC2,us-east-1,120.50,ACTIVE,Data_Engineering
+2026-06-01,db-prod-01,RDS,us-east-1,450.00,ACTIVE,Database_Team
+2026-06-01,st-raw-01,S3,us-west-2,85.20,ACTIVE,Data_Engineering
+2026-06-02,vm-002,EC2,eu-west-1,45.10,TERMINATED,DevOps
+2026-06-02,db-test-01,RDS,us-east-1,110.00,ACTIVE,QA_Team
+2026-06-02,vm-analytics,EC2,us-east-1,310.80,ACTIVE,Data_Engineering
+2026-06-03,st-backup,S3,us-east-1,95.00,ACTIVE,DevOps
+2026-06-03,db-prod-01,RDS,us-east-1,450.00,ACTIVE,Database_Team
+2026-06-03,vm-001,EC2,us-east-1,120.50,ACTIVE,Data_Engineering
+2026-06-04,lambda-ingest,Lambda,us-east-1,12.30,ACTIVE,Data_Engineering
+2026-06-04,vm-jenkins,EC2,us-west-2,75.00,ACTIVE,DevOps
+2026-06-04,db-test-01,RDS,us-east-1,110.00,TERMINATED,QA_Team
+2026-06-05,vm-analytics,EC2,us-east-1,310.80,ACTIVE,Data_Engineering
+2026-06-05,st-raw-01,S3,us-west-2,85.20,ACTIVE,Data_Engineering

@@ -1,0 +1,3 @@
+Laptop:15
+raton:130
+Teclado:22

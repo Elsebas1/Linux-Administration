@@ -1,0 +1,70 @@
+[2026-06-09 09:57:39] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 06:14:13] INFO - Service systemd-journald health check OK
+[2026-06-09 10:53:37] INFO - Service systemd-journald health check OK
+[2026-06-09 09:22:15] ERROR - Connection lost with database cluster node-3
+[2026-06-09 14:29:46] INFO - Service systemd-journald health check OK
+[2026-06-09 09:49:45] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 12:00:22] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 23:42:57] INFO - Service systemd-journald health check OK
+[2026-06-09 09:30:15] INFO - Service systemd-journald health check OK
+[2026-06-09 16:01:02] INFO - Service systemd-journald health check OK
+[2026-06-09 11:53:52] INFO - Service systemd-journald health check OK
+[2026-06-09 07:56:31] INFO - Service systemd-journald health check OK
+[2026-06-09 09:40:00] INFO - Service systemd-journald health check OK
+[2026-06-09 13:13:58] INFO - Service systemd-journald health check OK
+[2026-06-09 14:24:47] ERROR - Connection lost with database cluster node-0
+[2026-06-09 04:28:06] INFO - Service systemd-journald health check OK
+[2026-06-09 12:50:25] INFO - Service systemd-journald health check OK
+[2026-06-09 06:14:38] INFO - Service systemd-journald health check OK
+[2026-06-09 21:39:03] INFO - Service systemd-journald health check OK
+[2026-06-09 07:17:16] INFO - Service systemd-journald health check OK
+[2026-06-09 08:35:30] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 18:54:38] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 09:07:51] INFO - Service systemd-journald health check OK
+[2026-06-09 06:33:09] ERROR - Connection lost with database cluster node-2
+[2026-06-09 15:21:49] INFO - Service systemd-journald health check OK
+[2026-06-09 11:49:00] INFO - Service systemd-journald health check OK
+[2026-06-09 11:13:13] INFO - Service systemd-journald health check OK
+[2026-06-09 10:31:03] INFO - Service systemd-journald health check OK
+[2026-06-09 23:25:09] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 09:44:59] INFO - Service systemd-journald health check OK
+[2026-06-09 12:39:14] ERROR - Connection lost with database cluster node-0
+[2026-06-09 20:46:25] INFO - Service systemd-journald health check OK
+[2026-06-09 05:31:56] ERROR - Connection lost with database cluster node-3
+[2026-06-09 00:25:53] INFO - Service systemd-journald health check OK
+[2026-06-09 04:08:26] INFO - Service systemd-journald health check OK
+[2026-06-09 03:54:22] ERROR - Connection lost with database cluster node-3
+[2026-06-09 11:55:35] INFO - Service systemd-journald health check OK
+[2026-06-09 17:21:45] ERROR - Connection lost with database cluster node-3
+[2026-06-09 12:11:31] INFO - Service systemd-journald health check OK
+[2026-06-09 01:35:34] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 08:43:10] INFO - Service systemd-journald health check OK
+[2026-06-09 12:31:37] INFO - Service systemd-journald health check OK
+[2026-06-09 20:03:28] INFO - Service systemd-journald health check OK
+[2026-06-09 00:07:22] ERROR - Connection lost with database cluster node-2
+[2026-06-09 11:58:43] INFO - Service systemd-journald health check OK
+[2026-06-09 21:32:49] ERROR - Connection lost with database cluster node-3
+[2026-06-09 16:12:05] INFO - Service systemd-journald health check OK
+[2026-06-09 15:20:26] INFO - Service systemd-journald health check OK
+[2026-06-09 23:46:04] INFO - Service systemd-journald health check OK
+[2026-06-09 16:37:35] INFO - Service systemd-journald health check OK
+[2026-06-09 07:13:37] INFO - Service systemd-journald health check OK
+[2026-06-09 11:27:21] INFO - Service systemd-journald health check OK
+[2026-06-09 21:16:51] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 06:51:58] INFO - Service systemd-journald health check OK
+[2026-06-09 00:11:55] INFO - Service systemd-journald health check OK
+[2026-06-09 16:21:03] ERROR - Connection lost with database cluster node-0
+[2026-06-09 15:49:21] INFO - Service systemd-journald health check OK
+[2026-06-09 09:04:12] INFO - Service systemd-journald health check OK
+[2026-06-09 20:00:31] ERROR - Connection lost with database cluster node-2
+[2026-06-09 02:55:21] INFO - Service systemd-journald health check OK
+[2026-06-09 14:27:21] INFO - Service systemd-journald health check OK
+[2026-06-09 18:40:11] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 02:35:50] FATAL - Kernel panic: Attempted to kill init! core_dumped
+[2026-06-09 17:19:01] INFO - Service systemd-journald health check OK
+[2026-06-09 21:43:05] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 17:59:26] INFO - Service systemd-journald health check OK
+[2026-06-09 17:26:38] ERROR - Connection lost with database cluster node-4
+[2026-06-09 20:13:31] ERROR - Connection lost with database cluster node-3
+[2026-06-09 11:25:58] CRITICAL - Disk usage at 98% on /dev/sda1
+[2026-06-09 06:20:13] ERROR - Connection lost with database cluster node-3

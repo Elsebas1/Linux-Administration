@@ -1,0 +1,18 @@
+=======================
+ REPORTE DE ATAQUES.   
+========================
+
+-------------------------
+Análisis para el patrón: Invalid
+
+---------------------------
+Ranking de IPs (INTENTOS | DIRECCIÓN IP):
+ALERTA CRÍTICA: Bloqueando la IP '192.168.1.50' por registrar 35 ataques.
+
+-------------------------
+Análisis para el patrón: Failed
+
+---------------------------
+Ranking de IPs (INTENTOS | DIRECCIÓN IP):
+ALERTA CRÍTICA: Bloqueando la IP '10.0.0.99' por registrar 37 ataques.
+ALERTA CRÍTICA: Bloqueando la IP '172.16.0.5' por registrar 15 ataques.

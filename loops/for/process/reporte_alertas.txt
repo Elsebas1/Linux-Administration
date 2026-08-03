@@ -1,0 +1,6 @@
+====================
+ALERTAS REPORTE Sun Jun 14 13:01:22 -05 2026
+====================
+🚨 KILL CRITICO [nodo_alpha.log]: El usuario sebastiangomez está usando 85% CPU en el PID 4012 (python_etl). Se requiere kill -9.
+🚨 KILL CRITICO [nodo_beta.log]: El usuario app_user está usando 98% CPU en el PID 3022 (java_backend). Se requiere kill -9.
+🚨 KILL CRITICO [nodo_gamma.log]: El usuario guest está usando 92% CPU en el PID 9515 (crypto_miner). Se requiere kill -9.

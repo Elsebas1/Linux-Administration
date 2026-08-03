@@ -1,0 +1,6 @@
+================
+REPORTE URGENTE
+================
+⚠️ ATENCIÓN: El disco /dev/sda2 está al 92%. Monitorear de cerca.
+⚠️ ATENCIÓN: El disco /dev/sdb2 está al 88%. Monitorear de cerca.
+🚨 ACCIÓN INMEDIATA: El disco /dev/sdc1 está al 96%. ¡Peligro de Colapso!

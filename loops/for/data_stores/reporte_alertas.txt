@@ -1,0 +1,6 @@
+=== ALERTAS DE ABASTECIMIENTO CRÍTICO ===
+=== Evaluado el: Thu Jun 11 22:16:40 -05 2026 ===
+-----------------------------------------
+⚠️ STOCK INTERNO: La tienda tienda_norte.txt reporta pocas ventas de Monitor (12 unidades).
+⚠️ STOCK INTERNO: La tienda tienda_sur.txt reporta pocas ventas de Teclado (8 unidades).
+⚠️ STOCK INTERNO: La tienda tienda_sur.txt reporta pocas ventas de Monitor (3 unidades).

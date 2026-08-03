@@ -1,0 +1,6 @@
+ === Reporte de intentos de intrusión ===
+ ----------------------------------------
+🚨 BLOQUEO INMEDIATO: La IP 103.25.47.10 atacó con 42 intentos desde China.
+⚠️ MONITOREO: Actividad sospechosa de 103.25.47.12 (12 intentos) desde China.
+🚨 BLOQUEO INMEDIATO: La IP 185.220.101.9 atacó con 90 intentos desde Rusia.
+🚨 BLOQUEO INMEDIATO: La IP 185.220.101.5 atacó con 85 intentos desde Rusia.

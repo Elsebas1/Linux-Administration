@@ -1,0 +1,11 @@
+ === Fecha Thu Jun 11 18:11:34 -05 2026 ===
+
+=== REPORTE DE LA INFORMACIÓN ===
+
+🟢 ESTABLE: La app app_web está funcionando normal (512 MB).
+⚠️ ADVERTENCIA: La app app_db consume 2048 MB. Estado: ALERT .
+🟢 ESTABLE: La app app_cache está funcionando normal (1024 MB).
+❌ REVISIÓN URGENTE: La app app_api consume 4096 MB. Estado: CRITICAL .
+🟢 ESTABLE: La app app_auth está funcionando normal (256 MB).
+❌ REVISIÓN URGENTE: La app app_worker consume 3072 MB. Estado: ALERT .
+🟢 ESTABLE: La app app_proxy está funcionando normal (128 MB).
