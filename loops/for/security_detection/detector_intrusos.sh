@@ -1,6 +1,6 @@
-RUTA="/Users/sebastiangomez/logs/deteccion_seguridad"
-FALLOS=("Invalid" "Failed")
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/security_detection"
 ARCHIVO="$RUTA/auth.log"
+FALLOS=("Invalid" "Failed")
 REPORTE="$RUTA/reporte_intrusos.txt"
 
 echo "=======================" > $REPORTE

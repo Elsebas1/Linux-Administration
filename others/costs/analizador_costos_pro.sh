@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/others/costs"
 ARCHIVO="$RUTA/reporte_costos_cloud.csv"
 PALABRAS_CLAVE=("ACTIVE" "Data_Engineering" "EC2" "RDS")
 

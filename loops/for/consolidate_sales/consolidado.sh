@@ -1,5 +1,5 @@
 #!/bin/bash
-RUTA="/Users/sebastiangomez/logs/consolidado_ventas"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/consolidate_sales"
 ARCHIVOS="$RUTA/srv_*.log"
 REPORTE="$RUTA/master_ventas.log"
 REPORTE_FINAL="$RUTA/auditoria_final.txt"

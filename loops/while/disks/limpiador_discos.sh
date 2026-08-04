@@ -1,4 +1,4 @@
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/disks"
 ARCHIVO="$RUTA/uso_discos.csv"
 
 

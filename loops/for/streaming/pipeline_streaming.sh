@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/uso_for/streaming"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/streaming"
 ARCHIVOS="$RUTA/logs_*.txt"
 REPORTE="$RUTA/reporte_streaming.txt"
 

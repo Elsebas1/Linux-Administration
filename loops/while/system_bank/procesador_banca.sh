@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/sistema_bancario"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/system_bank"
 ARCHIVOS="$RUTA/*.dat"
 UNIFICADOS="$RUTA/todo_banca.tmp"
 REPORTE="$RUTA/auditoria_bancaria.txt"

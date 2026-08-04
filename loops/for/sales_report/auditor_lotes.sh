@@ -1,8 +1,7 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
-CARPETA="$RUTA/reportes_ventas"
-ARCHIVOS="$CARPETA/*.txt"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/sales_report"
+ARCHIVOS="$RUTA/*.txt"
 
 
 for TRANSACCION in $ARCHIVOS; do

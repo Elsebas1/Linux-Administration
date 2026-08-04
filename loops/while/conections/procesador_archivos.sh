@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/conections"
 ARCHIVO="$RUTA/conexiones_red.csv"
 
 while IFS="," read -r IP ESTADO; do

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/uso_for/tiendas_data"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/data_store"
 ARCHIVOS="$RUTA/tienda_*.txt"
 ALERTAS="$RUTA/reporte_alertas.txt"
 

@@ -1,4 +1,4 @@
-RUTA="/Users/sebastiangomez/logs/logs_simulacion"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/simulation_logs"
 PATRONES=("FATAL" "CRITICAL")
 REPORTE_FINAL="$RUTA/reporte_final.txt"
 

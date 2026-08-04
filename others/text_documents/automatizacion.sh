@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CARPETA_ORIGEN="/Users/sebastiangomez/practica_linux"
+CARPETA_ORIGEN="/Users/sebastiangomez/repositorios_git/linux/others/text_documents"
 ARCHIVOS_TEXTO="/Users/sebastiangomez/practica_linux/documentos_texto"
 ARCHIVOS_DATA="/Users/sebastiangomez/practica_linux/tablas"
 

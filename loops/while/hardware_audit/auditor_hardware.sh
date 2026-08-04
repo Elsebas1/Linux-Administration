@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/hardware_audit"
 ARCHIVO="$RUTA/inventario_servidores.csv"
 
 while IFS="," read -r SERVIDOR RAM ESTADO; do

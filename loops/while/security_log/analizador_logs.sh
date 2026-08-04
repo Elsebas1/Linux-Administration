@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/linux/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/security_log"
 ARCHIVO="$RUTA/app_seguridad.log"
 
 

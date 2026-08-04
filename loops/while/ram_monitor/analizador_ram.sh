@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/monitor_ram"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/ram_monitor"
 ARCHIVOS="$RUTA/srv_*.data"
 UNIFICADOS_DOS="$RUTA/maestro_ram.tmp"
 REPORTE_DOS="$RUTA/reporte_ram.txt"

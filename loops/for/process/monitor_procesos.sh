@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/uso_for/procesos"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/process"
 ARCHIVOS="$RUTA/nodo_*.log"
 REPORTE_FINAL="$RUTA/reporte_alertas.txt"
 

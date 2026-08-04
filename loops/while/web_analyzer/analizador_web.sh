@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/while/web_analyzer"
 ARCHIVO="$RUTA/acceso_web.log"
 
 while read -r LINEA; do

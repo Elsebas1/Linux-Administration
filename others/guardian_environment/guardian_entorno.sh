@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/others/guardian_environment"
 ARCHIVO_TOKEN="$RUTA/scripts_seguros/token_acceso.key"
 ARCHIVO_CONFIG="$RUTA/config_pipeline.conf"
 

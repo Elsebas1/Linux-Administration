@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/funciones/uso_for/ciberseguridad"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/cibersecurity"
 ARCHIVO="$RUTA/servidor_*.log"
 ARCHIVO_UNIFICADO="$RUTA/maestro_accesos.tmp"
 REPORT="$RUTA/reporte_bloqueo.txt"

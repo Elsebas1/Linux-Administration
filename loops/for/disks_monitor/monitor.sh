@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/logs/monitor_discos"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/loops/for/disk_monitor"
 ARCHIVOS="$RUTA/cluster*.txt"
 TEMPORAL="$RUTA/maestro_discos.txt"
 PALABRAS_CLAVE=("ALERT" "CRITICAL")
