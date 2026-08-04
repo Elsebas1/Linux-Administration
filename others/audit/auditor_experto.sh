@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RUTA="/Users/sebastiangomez/practica_linux"
-RUTA_ARCHIVO="auditoria_servidor.log"
+RUTA="/Users/sebastiangomez/repositorios_git/linux/others/audit"
+RUTA_ARCHIVO="$RUTA/auditoria_servidor.log"
 
 PALABRAS_CLAVE=("FAILED_MALICIOUS" "API_GATEWAY" "CRITICAL_ERROR")
 
