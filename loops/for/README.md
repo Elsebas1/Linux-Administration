@@ -5,7 +5,7 @@ The `for` loop is a control structure that allows you to iterate over data seque
  ## Folders 📁
  
 
- The primary objetc of this section is to work through various situations that a linux administrator might encounter in different companies. It includes exercises related to applications, cibersecurity, sales, logs, and more. The approach focused on simulatin real-world scenarios; throgh automated and practical problem-solving, key challenges are addressed in areas such as: 
+ The primary object of this section is to work through various situations that a linux administrator might encounter in different companies. It includes exercises related to applications, cibersecurity, sales, logs, and more. The approach focused on simulating real-world scenarios; through automated and practical problem-solving, key challenges are addressed in areas such as: 
 
  * **Audit analysis and logging**
  * **Cybersecurity**
